@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Endemic" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/Green</item> <!-- Warna action bar -->
+    </style>
+    <style name="Base.Theme.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/Green</item> <!-- Warna action bar -->
+    </style>
+
+    <style name="Theme.Endemic" parent="Base.Theme.Endemic" />
+    <style name="Theme.EndemicNoBar" parent="Base.Theme.NoActionBar" />
+</resources>

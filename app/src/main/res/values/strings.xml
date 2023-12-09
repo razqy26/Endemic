@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Hewan Endemik Sulawesi</string>
+    <string name="about">About</string>
+    <string name="endemic_name">Nama Hewan Endemik</string>
+    <string name="latin">Nama Latin</string>
+    <string name="category">Kategori</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">teukurazqy@gmail.com</string>
+    <string name="namalengkap">Teuku Razqy Sulaiman</string>
+    <string-array name="data_name">
+        <item>Anoa Dataran Rendah</item>
+        <item>Anoa Pegunungan</item>
+        <item>Babirusa</item>
+        <item>Burung Maleo</item>
+        <item>Kupu Kupu Matano</item>
+        <item>Kuskus Beruang Sulawesi</item>
+        <item>Kuskus Kerdil</item>
+        <item>Monyet Gorontalo</item>
+        <item>Monyet Hitam Sulawesi</item>
+        <item>Tarsius</item>
+        <item>Tarsius Pulau Peleng</item>
+    </string-array>
+    <string-array name="data_latin">
+        <item>Bubalus depressicornis</item>
+        <item>Bubalus quarlesi</item>
+        <item>Babyrousa babyrussa</item>
+        <item>Macrocephalon maleo</item>
+        <item>Glossogobius Matanensis</item>
+        <item>Ailurops ursinus</item>
+        <item>Strigocuscus celebensis</item>
+        <item>Macaca nigrescens</item>
+        <item>Macaca nigra</item>
+        <item>Tarsius tarsier</item>
+        <item>Tarsius pelengensis</item>
+    </string-array>
+    <string-array name="data_category">
+        <item>Herbivora</item>
+        <item>Herbivora</item>
+        <item>Herbivora</item>
+        <item>Omnivora</item>
+        <item>Herbivora</item>
+        <item>Herbivora</item>
+        <item>Herbivora</item>
+        <item>Omnivora</item>
+        <item>Omnivora</item>
+        <item>Omnivora</item>
+        <item>Omnivora</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anoadataranrendah</item>
+        <item>@drawable/anoapegunungan</item>
+        <item>@drawable/babirusa</item>
+        <item>@drawable/burungmaleo</item>
+        <item>@drawable/kupukupuglossogobius</item>
+        <item>@drawable/kuskusberuangsulawesi</item>
+        <item>@drawable/kuskuskerdil</item>
+        <item>@drawable/monyetgorontalo</item>
+        <item>@drawable/monyethitamsulawesi</item>
+        <item>@drawable/tarsius</item>
+        <item>@drawable/tarsiuspulaupeleng</item>
+    </integer-array>
+    <string-array name="data_description">
+        <item>Anoa dataran rendah (<i>Bubalus depressicornis</i>) adalah jenis anoa yang banyak ditemui di hampir seluruh bagian pulau sulawesi meliputi Sulawesi bagian tengah, Sulawesi bagian utara , Sulawesi bagian timur, Sulawesi bagian tenggara, dan pulau Buton pada daerah dataran rendah hingga ketinggian 1000 meter diatas permukaan laut. Anoa dataran rendah sering disebut dengan kerbau kerdil. Ciri ciri dari anoa ini adalah: memiliki ukuran yang relatif lebih kecil, memiliki ekor lebih panjang dan lembut, serta tanduk melingkar dan lebih panjang berkisar 18–37 cm, memiliki bulu lebih jarang, memiliki panjang tubuh sekitar 180 cm dengan berat badan berkisar antara 200 hingga 300 kg.</item>
+        <item>Anoa pegunungan (<i>Bubalus quarlesi</i>) adalah jenis anoa yang berhabitat di pegunungan yang berada di Pulau Sulawesi dan Pulau Buton. anoa ini memilih tinggal di daerah yang mempunyai banyak vegetasi dan sumber air yang permanen serta jauh dari jangkauan manusia. Anoa pegunungan hidup secara soliter atau berpasangan. anoa pegunungan memiliki ciri–ciri: memiliki bulu yang sangat tebal dengan warna coklat gelap atau hitam. Memiliki tanduk yang relatif pendek, lurus dengan sudut mengarah kebelakang dengan panjang berkisar antara 15–20 cm. Panjang kepala hingga kaki pada anoa pegunungan sekitar 122–153 cm, Panjang ekornya mencapai 27 cm, dengan berat kurang dari 150 kg untuk anoa dewasa.</item>
+        <item>Babirusa (<i>Babyrousa babyrussa</i>) salah satu jenis babi yang banyak ditemukan di hutan hujan tropis di Pulau Sulawesi, Sula, Togian, Malenge dan Buru. Makanan Babirusa adalah tumbuhan dan buah-buahan.</item>
+        <item>Burung Maleo (<i>Macrocephalon maleo</i>) adalah salah satu spesies burung endemik dari pulau Sulawesi. Burung ini endemik di hutan tropis dataran rendah pulau Sulawesi seperti di Gorontalo (Bone Bolango dan Pohuwato) dan Sulawesi Tengah (Sigi dan Banggai). Burung ini memiliki keunikan yaitu pada saat baru menetas anak burung maleo sudah dapat terbang. Burung maleo memiliki tonjolan di atas kepalanya yang berfungsi sebagai pendeteksi panas guna menetaskan telurnya. Telur burung maleo memiliki ukuran sekitar 11 cm dengan berat sekitar 240–270 gram. Burung maleo kini masuk dalam daftar hewan yang terancam punah.</item>
+        <item>Kupu-kupu <i>Glossogobius matanensis</i> adalah jenis kupu-kupu yang memiliki sayap indah dan hanya dapat ditemukan di Pulau sulawesi, Pulau buton, dan Pulau Kabaena.</item>
+        <item>Kuskus Beruang Sulawesi (<i>Ailurops ursinus</i>) adalah jenis hewan yang masuk dalam hewan mamalia berkantung atau marsupialia dalam Famili Phalangeridae. Kuskus ini berhabitat di pulau Sulawesi dan sekitarnya.</item>
+        <item>Kuskus Kerdil (<i>Strigocuscus celebensis</i>) adalah jenis kuskus berukuran lebih kecil dibanding dengan spesiesnya yang lain. Kuskus ini dapat dijumpai di Pulau Sulawesi dan sekitarnya.</item>
+        <item>Monyet Gorontalo (<i>Macaca nigrescens</i>) adalah jenis monyet endemik dari provinsi Gorontalo bagian utara pulau Sulawesi. Monyet ini juga sering disebut dengan monyet Dumonga.</item>
+        <item>Monyet Hitam Sulawesi (<i>Macaca nigra</i>) adalah jenis monyet yang banyak ditemukan di daerah dekat perairan di hampir seluruh bagian Sulawesi. Monyet ini memiliki ciri-ciri : Berambut hitam kecuali bagian punggung dan selangkangan serta berwarna merah pada bagian pantat. Pada bagian kepala memiliki jambul, panjang tubuhnya sekitar 44,5 hingga 60 cm, Panjang ekorny sekitar 20 cm, serta berat monyet ini adalah sekitar 15 kg.</item>
+        <item>Tarsius (<i>Tarsius tarsier</i>) adalah jenis hewan yang berhabitat hutan-hutan Sulawesi utara dan selatan. Tarsius memiliki pergelangan kaki yang terbentuk dari tulang tarsal yang memanjang Sehingga tarsius mampu melompat sejauh 3 m. Tarsius memiliki ekor yang panjang, Tarsius juga memiliki 5 jari pada setiap tangan dan kakinya.</item>
+        <item>Tarsius Pulau Peleng (<i>Tarsius pelengensis</i>) adalah salah satu jenis tarsius yang berhabitat di Pulau Paleng, Sulawesi Tengah. Tarsius ini mampu memutarkan kepalanya hingga 180°, hal ini terjadi karena mata tarsius ini tersiman pada rongga mata tetap.</item>
+    </string-array>
+
+</resources>
